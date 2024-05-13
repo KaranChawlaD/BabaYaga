@@ -7,6 +7,8 @@ from pygame import mixer
 pygame.init()
 mixer.init()
 
+# Test
+
 #Pygame Window Name
 pygame.display.set_caption('Baba Yaga')
 
